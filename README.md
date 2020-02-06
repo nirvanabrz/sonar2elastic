@@ -1,5 +1,7 @@
 ## Sonar to Elasticsearch v0.1.
 
+Esse escript é bem específico, mas a ideia é servir com base para o seu caso de uso. Espero que ajude!
+
 #### Description
 
 Script Python responsável por integrar SonarQube e Elasticsearch via REST APIs.
