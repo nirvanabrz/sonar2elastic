@@ -6,6 +6,9 @@ Script Python responsável por integrar SonarQube e Elasticsearch via REST APIs.
 
 #### Python Modules Dependences
 
+O único módulo que é necessário ser instalado manualmente é o pip, os demais o script consegue instalar.
+
+* pip
 * elasticsearch
 * requests
 * json
